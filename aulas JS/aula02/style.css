@@ -1,0 +1,30 @@
+body{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    background-color: darkseagreen;
+
+}
+
+#text_area{
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#ola_troxa{
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
